@@ -1,3 +1,3 @@
-# I’m Joe, a Front-End Web Developer
+# Hi, I’m Joe - I make websites work
 
-My passion for web development has always been present. I am excited by building sites that are accessible, SEO friendly and fast. To do this I use a variety of tools such as WordPress, Gatsby, React, Vue, and other frameworks. Despite using many current frameworks, I have a strong grounding in HTML, CSS, and JavaScript. Whilst developing sites I have gained experience with CI/CD chains and a variety of hosting platforms such as Digital Ocean, Netlify, Firebase, and Cloudflare. I have been following the continuous growth of technologies such as PWAs and the Jamstack. I'm currently freelancing whilst studying at Southampton Solent University.
+I deliver great websites, applications, and experiences. I’m passionate about a privacy-first internet where everyone can feel safe. I code in VueJS and like to keep things front-end, utilising Netlify wherever possible. I have a thorough understanding of PHP to call on when working with WordPress sites.
