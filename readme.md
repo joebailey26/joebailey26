@@ -1,3 +1,3 @@
-# Hi, I’m Joe - I make websites work
+# Hi, I’m Joe - Lead Project Engineer
 
-I deliver great websites, applications, and experiences. I’m passionate about a privacy-first internet where everyone can feel safe. I code in PHP and Vue.
+I lead software engineers, shape technical decisions and stay hands-on with the code and infrastructure that deliver them.
